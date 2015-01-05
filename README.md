@@ -1,4 +1,4 @@
-javascript-chess
+Chess
 ================
 
 Chess in JavaScript

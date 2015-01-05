@@ -1,0 +1,61 @@
+#gameboard {
+    width: 640px; 
+}
+
+.frame {
+    border: 1px solid black;
+    padding: 2px;
+    width: 640px;
+    margin: 0 auto; 
+}
+
+.black_sqr {
+    width: 78px;
+    height: 78px;
+    color: white;
+    font-size: 40px;
+    background-color: aaa;
+    border: 1px solid black;
+    float: left;
+}
+
+.white_sqr {
+    width: 78px;
+    height: 78px;
+    color: black;
+    font-size: 40px;
+    background-color: ddd;
+    border: 1px solid black;
+    float: left;
+}
+
+.red_sqr {
+    width: 78px;
+    height: 78px;
+    font-size: 40px;
+    color: white;
+    background-color: faa;
+    border: 1px solid black;
+    float: left;
+}
+
+.green_sqr {
+    width: 78px;
+    height: 78px;
+    font-size: 40px;
+    color: white;
+    background-color: afa;
+    border: 1px solid black;
+    float: left;
+}
+
+.blue_sqr {
+    width: 78px;
+    height: 78px;
+    font-size: 40px;
+    color: white;
+    background-color: aaf;
+    border: 1px solid black;
+    float: left;
+}
+
